@@ -1,0 +1,80 @@
+Initialized empty Git repository in /Users/vatsalagarwal/Desktop/CRISS/task1/.git/
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	task1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	task1.txt
+	timetable.pdf
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   task1.txt
+	new file:   timetable.pdf
+[main (root-commit) 4bf59bb] pdf added
+ 2 files changed, 20 insertions(+)
+ create mode 100644 task1.txt
+ create mode 100644 timetable.pdf
+
+* main
+M	task1.txt
+this is a random new file
+newfile.txt
+task1.txt
+timetable.pdf
+this is a random new file
+On branch branch1
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   task1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	newfile.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[branch1 1aeb2c7] new file added
+ 1 file changed, 1 insertion(+)
+ create mode 100644 newfile.txt
+diff --git a/newfile.txt b/newfile.txt
+new file mode 100644
+index 0000000..9fa6da3
+--- /dev/null
++++ b/newfile.txt
+@@ -0,0 +1 @@
++this is a random new file
+diff --git a/newfile.txt b/newfile.txt
+deleted file mode 100644
+index 9fa6da3..0000000
+--- a/newfile.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-this is a random new file
+M	task1.txt
+task1.txt
+timetable.pdf
+Updating 4bf59bb..1aeb2c7
+Fast-forward
+ newfile.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 newfile.txt
+newfile.txt
+task1.txt
+timetable.pdf
+this is a random new file
